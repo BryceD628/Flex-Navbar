@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+    .center-box {
+        width: 95%;
+        height: 624px;
+        margin: 10px;
+        padding: 0px;
+        background-color: darkblue;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+}
+    .center-item {
+        width: 150px;
+        height: 150px;
+        margin: 10px;
+        background-color: tan;
+    }
